@@ -2,6 +2,7 @@ html
 python
 css
 java
+java script
 c
 c++
 C#

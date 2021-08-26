@@ -1,0 +1,83 @@
+﻿*********************** cd commands *********************
+What is cd ?
+cd means change the directory and cd used for change the directory of terminal. 
+There are six Commands of cd 
+1. cd (change directory) 
+2. cd - (Move one directory back from where you are now)
+3. cd ~ (Move to users have directory from anywhere)
+4. cd .. (Change current directory to parent directory)
+5. cd -- (Show last working directory from where we moved)
+6. cd / (Change to root directory)
+
+********************** ls Commands **********************
+What is ls ?
+ls list all current folders and  directories 
+There are 12 commands of ls see what they are
+1. ls (list current directory /list folder contents)
+2. ls -l (To show file or directory, size, modified date and time, owner of file, permission)
+3. ls -a (List all files including hidden files )
+4. ls -lh (It show size in human readable format)
+5. ls -F (Used to add the '/' character at the each directory)
+6. ls -r (Used to display files , directories in reverse order)
+7. ls -ltr (Used to show latest modified directory or file date)
+8. ls -n (to display UID and GID directories)
+9. ls -i (Display number of file or directory)
+10. ls -R (Show recursively list of sub directories)
+11. ls -al (Formatted listing with hidden files)
+12. ls --version (To check the version of ls command)
+
+********************* cp commands  *********************
+What is cp ?
+cp means copy, cp used for copy any type of files folders. The following commands shows different types of cp commands. 
+There are 6 commands of copy
+1. cp (used to copy any files, folders)
+2. cp -f (Force copy by removing the destination files)
+3.cp -v (Used to print informative message)
+4. cp -u (Used to copy when source is newer than dest)
+5. cp -R (Used to copy any directory "including hidden files")
+6. cp -n (No file overwrite)
+
+********************** mv commands *********************
+What is mv ? 
+mv means move and it's used for move files and folders
+There are six commands of mv
+1. mv[Filename] (Used to move any files, folders)
+2. mv -f (Force move by overwriting destination files without promote)
+3. mv -v (To move any directory, folders)
+4. mv -u (Update -move when source is newer than destination)
+5. mv -i (Interactive prompt before overwrite)
+6. mv [File1][New File2] (Used to move or rename file one to file 2)
+
+******************** unstall commands ********************
+What is rm ?
+rm means remove and it's used for remove or delete files. 
+There are 5 commands of rm
+1. rm (To remove or delete files)
+2. rmdir [Dir name] (To remove any directory)
+3. rm -rf (used to force remove a directory)
+4. rm -r[Name] (Delete a directory called name)
+5. apt remove [Package name] (Used to remove package)
+
+************ package installation commands *************
+What is apt ?
+apt is a commandline package manager and provides commands for searching and managing as well as querying information about packages. It provides the same functionality as the specialized APT tools.
+1. apt update (Used to update list of packages)
+2. apt upgrade (To upgrade list of packages)
+3. apt install <package> or pkg install <package> (to install packages)
+
+*************** file permission commands ****************
+What is chmod ?
+chmod is used to change file permission to make file in executable mode) 
+There are 5 commands of chmod 
+1. chmod +x [File name] (Used to give permission{Make executable} to a file or script like .py .sh  .rb )
+2. chmod +x * (Set file permission to all files)
+3.chmod 771 [File name] (Set file permission)
+4. chmod 777 [File name] (Give executable permission to a file)
+5. chmod 777* (Give executable permission to all files)
+
+***************** Installation of Tools ********************
+git clone [url] (To install tools or script for github)
+wget [url] (To install tools or script from any other website)
+curl [url] (To install tool or script for termux)
+*************** Basic Network Commands ****************
+ifconfig (Shows configuration a network interface for check your local IP, mac address or display the current network interface information)

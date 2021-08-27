@@ -7,7 +7,7 @@ pkg install sudo
 pkg install php
 exit
 cd .. back k liye
-cd Download file maibjane k liye
+cd Download file mai jane k liye
 banner
 termux-setup-storage
 mv filename.txt /sdcard

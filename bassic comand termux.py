@@ -16,3 +16,5 @@ pkg install hydra
 pkg install mc
 mc
 rm file name termux remove delete file
+tourch .pks.py =>create new file 
+ls -a =>show hide file 

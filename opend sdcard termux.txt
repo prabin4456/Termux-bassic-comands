@@ -1,0 +1,9 @@
+Termux opend extranal sdcard
+cd ....
+sdcard
+ls
+cd ...
+storage
+32E7-1809
+cp video.mp4 /sdcard
+/storage/32E7-1809/

@@ -11,6 +11,7 @@ $ exit
 =>termux apk ko cloge band karne k liye
 
 $ cd ..
+$ exit ()
 =>back k liye
 
 $ cd Download

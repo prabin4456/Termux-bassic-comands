@@ -22,6 +22,8 @@ $ termux-setup-storage
 
 $ mv filename.txt /sdcard
 =>Termux file Move k Liye
+$ mv name.py $HOME
+=> termux Home mai move k liye
 
 $ cp name.py /sdcard
 =>name.py file sdcard copy k liye
